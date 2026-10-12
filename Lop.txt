@@ -1,0 +1,10 @@
+D25CQCN01,Cong nghe thong tin 1 K25
+D25CQCN02,Cong nghe thong tin 2 K25
+D25CQCN03,Cong nghe thong tin 3 K25
+D25CQAT01,An toan thong tin 1 K25
+D25CQAT02,An toan thong tin 2 K25
+D24CQCN01,Cong nghe thong tin 1 K24
+D24CQCN02,Cong nghe thong tin 2 K24
+D24CQAT01,An toan thong tin 1 K24
+D25CQVT01,Vien thong 1 K25
+D25CQPT01,Da phuong tien 1 K25
