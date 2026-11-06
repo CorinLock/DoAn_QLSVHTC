@@ -1,0 +1,25 @@
+CTDL,Cau truc du lieu va giai thuat,3,1
+C++,Lap trinh C++,2,1
+AI,Tri tue nhan tao,3,1
+ATTT,An toan thong tin,3,0
+CSDL,Co so du lieu,3,1
+CNPM,Cong nghe phan mem,3,0
+TRR,Toan roi rac,3,0
+MMT,Mang may tinh,3,1
+KTLT,Ky thuat lap trinh,2,1
+HDH,He dieu hanh,3,0
+CTMT,Kien truc may tinh,3,0
+DSML,Hoc may va Khai pha du lieu,3,1
+IOT,Internet of Things,3,1
+KTKD,Kinh te dai cuong,2,0
+LTHDT,Lap trinh huong doi tuong,3,1
+LTWEB,Lap trinh Web,2,1
+LTM,Lap trinh Mang,3,1
+PTTKHT,Phan tich thiet ke he thong,3,0
+PTDL,Phan tich du lieu,3,1
+PPTT,Phuong phap tinh,3,0
+TKDH,Thiet ke do hoa,2,1
+QLDA,Quan ly du an CNTT,2,0
+XSTK,Xac suat thong ke,3,0
+TTNT,Tri tue nhan tao nang cao,3,1
+WEB2,Lap trinh Web nang cao,2,1
